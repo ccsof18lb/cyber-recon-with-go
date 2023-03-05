@@ -1,0 +1,15 @@
+GET http://invoices.shopify.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=3600
+< Expires: Tue, 05 Jul 2022 04:13:50 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Location: https://invoices.shopify.com/
+< Server: cloudflare
+< Cf-Ray: 725ced527d658b3f-HKG
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rBAUfNPgHRu6t8IR9Vwst05Uri%2B8MhAadgegNxaIYQQZqJzm6Beq25VogLx3Wpp43N9Du0cDg05j4PyMqdi6n0apCF9sFi04OP2A4F7BwgWeJdbYpGluWyOPeqpCXTz7XmYA05i1"}],"group":"cf-nel","max_age":604800}
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

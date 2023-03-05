@@ -1,0 +1,9 @@
+GET http://capital-algo-streaming-production.flink.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://capital-algo-streaming-production.flink.shopifykloud.com
+< Date: Tue, 05 Jul 2022 03:13:53 GMT
+< Content-Length: 162
+< X-Dc: gcp-us-central1
+< Content-Type: text/html

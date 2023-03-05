@@ -1,0 +1,9 @@
+GET http://abandonment-pipeline-production.flink.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html
+< Content-Length: 162
+< X-Dc: gcp-us-central1
+< Location: https://abandonment-pipeline-production.flink.shopifykloud.com
+< Date: Tue, 05 Jul 2022 03:13:53 GMT

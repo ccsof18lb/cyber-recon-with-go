@@ -1,0 +1,16 @@
+GET http://apt.shopify.com
+
+
+< HTTP/1.1 200 OK
+< X-Amz-Request-Id: BV2J1SPE8AHTTB4R
+< X-Amz-Meta-Gid: 0
+< X-Amz-Meta-Mtime: 1362061592
+< Content-Type: text/html
+< X-Amz-Meta-Uid: 0
+< Last-Modified: Thu, 28 Feb 2013 14:26:33 GMT
+< X-Amz-Id-2: +KuqrsrXOia8Jm7dLVWcwNNhqJxbbfaAmHCh3ia01Th5A49SNoUti5yvjFhWhJe33bfCmLrqAiY=
+< Etag: "e8773150bd43799ea7254d17f302c320"
+< Date: Tue, 05 Jul 2022 03:13:51 GMT
+< X-Amz-Meta-Mode: 33188
+< Server: AmazonS3
+< Content-Length: 16

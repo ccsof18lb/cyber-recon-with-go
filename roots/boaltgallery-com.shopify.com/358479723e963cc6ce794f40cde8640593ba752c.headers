@@ -1,0 +1,26 @@
+GET https://boaltgallery-com.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Shardid: -1
+< Server-Timing-Public: processing;dur=3
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< X-Sorting-Hat-Podid: -1
+< X-Shopid: 
+< Cf-Ray: 725ced4b8c2cb409-HKG
+< X-Shopify-Stage: production
+< X-Content-Type-Options: nosniff
+< Cf-Cache-Status: DYNAMIC
+< Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+< X-Xss-Protection: 1; mode=block
+< Server: cloudflare
+< X-Storefront-Renderer-Rendered: 1
+< X-Download-Options: noopen
+< X-Permitted-Cross-Domain-Policies: none
+< Content-Type: text/html; charset=utf-8
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< X-Frame-Options: DENY
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Vary: Accept-Encoding
+< X-Request-Id: cd2a5ee9-a9a9-4869-bbcb-37e3a533f896

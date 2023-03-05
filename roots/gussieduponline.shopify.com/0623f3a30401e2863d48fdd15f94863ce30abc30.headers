@@ -1,0 +1,26 @@
+GET https://gussieduponline.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Request-Id: d7fcddda-233a-4716-a5a6-f939e1267370
+< X-Permitted-Cross-Domain-Policies: none
+< X-Shopid: 
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< Cf-Ray: 725ced4bcbbf3c9a-HKG
+< Vary: Accept-Encoding
+< Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+< X-Content-Type-Options: nosniff
+< Cf-Cache-Status: DYNAMIC
+< X-Shopify-Stage: production
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< X-Shardid: -1
+< X-Xss-Protection: 1; mode=block
+< X-Download-Options: noopen
+< Content-Type: text/html; charset=utf-8
+< X-Sorting-Hat-Podid: -1
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< X-Storefront-Renderer-Rendered: 1
+< Server-Timing-Public: processing;dur=5
+< X-Frame-Options: DENY

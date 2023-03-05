@@ -1,0 +1,9 @@
+GET https://turnilo.general.global.druid.shopifykloud.com
+
+
+< HTTP/1.1 302 Moved Temporarily
+< Content-Type: text/html
+< Set-Cookie: MINERVA_REQ_ID=01b1d850-be7c-44d7-85d7-9190b604364b; Path=/; Expires=Tue, 05 Jul 2022 03:18:50 GMT; HttpOnly; Secure; SameSite=Lax
+< Location: https://minerva.shopifycloud.com/auth/minerva?request=01b1d850-be7c-44d7-85d7-9190b604364b&rd=https://turnilo.general.global.druid.shopifykloud.com%2F
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Content-Length: 138

@@ -1,0 +1,9 @@
+GET https://dns.ash.shopify.com
+
+
+< HTTP/1.1 403 Forbidden
+< Content-Type: text/html
+< Server: cloudflare
+< Cf-Ray: 725ced4b8a543d88-HKG
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< Content-Length: 151

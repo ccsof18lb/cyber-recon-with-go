@@ -1,0 +1,9 @@
+GET http://amp-metafields.flink.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 162
+< X-Dc: gcp-us-central1
+< Location: https://amp-metafields.flink.shopifykloud.com
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Content-Type: text/html

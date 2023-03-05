@@ -1,0 +1,20 @@
+GET https://static.shopify.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Dc: gcp-us-central1,us-east1
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2BTBKat5noo4eQ4KDwHMyWpjd1O7U5vcuN%2BEPlyxgey%2BQsN8cep0qpF8TKmaZWFhzElPbVV5nz1Xeus4hlibGkUlyOJElwIgyEdJVgjIG1DG4CcX7i7Z2AlrLImW9XHIZh7BkUw%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Vary: Accept-Encoding
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Content-Type: text/html
+< Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+< X-Content-Type-Options: nosniff
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Content-Length: 162
+< Location: https://cdn.shopify.com/
+< Cf-Cache-Status: BYPASS
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Cf-Ray: 725ced5289bf8b87-HKG
+< X-Request-Id: ae47b03b-e5c5-44ab-99b1-88cebb785ac0
+< Server: cloudflare

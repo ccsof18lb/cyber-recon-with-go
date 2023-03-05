@@ -1,0 +1,26 @@
+GET https://smarter-tv.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Request-Id: 90f49a0a-6049-4ae0-a68b-d599dae83300
+< X-Permitted-Cross-Domain-Policies: none
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< X-Storefront-Renderer-Rendered: 1
+< Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+< X-Shopid: 
+< Server-Timing-Public: processing;dur=3
+< Server: cloudflare
+< X-Frame-Options: DENY
+< X-Shardid: -1
+< X-Shopify-Stage: production
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Cf-Ray: 725ced4b7ce03d54-HKG
+< Content-Type: text/html; charset=utf-8
+< Cf-Cache-Status: DYNAMIC
+< X-Sorting-Hat-Podid: -1
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< X-Download-Options: noopen
+< X-Xss-Protection: 1; mode=block

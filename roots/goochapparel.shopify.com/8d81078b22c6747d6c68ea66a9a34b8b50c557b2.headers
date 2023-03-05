@@ -1,0 +1,25 @@
+GET http://goochapparel.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=utf-8
+< X-Sorting-Hat-Podid: -1
+< Content-Security-Policy: frame-ancestors 'none';
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< Cf-Ray: 725ced4bade5b45b-HKG
+< X-Shopid: 
+< X-Request-Id: c01523f7-7b70-4277-9fe0-52babe847c69
+< X-Storefront-Renderer-Rendered: 1
+< X-Content-Type-Options: nosniff
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< X-Download-Options: noopen
+< X-Permitted-Cross-Domain-Policies: none
+< Server-Timing-Public: processing;dur=5
+< X-Xss-Protection: 1; mode=block
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< X-Shardid: -1
+< Cf-Cache-Status: DYNAMIC
+< Server: cloudflare
+< Vary: Accept-Encoding
+< X-Frame-Options: DENY
+< X-Shopify-Stage: production

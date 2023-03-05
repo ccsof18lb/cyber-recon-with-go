@@ -1,0 +1,15 @@
+GET http://beyondthebuild.shopify.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=3600
+< Location: https://beyondthebuild.shopify.com/
+< Server: cloudflare
+< Cf-Ray: 725ced526ab33dbe-HKG
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4XlIL6hgvIwEZrMUy%2BXpd%2BpPW4y7kgHmhnHfRfcIfd4%2FQ1zNLwoMmwvCL3RPT4hs8dtUiYESw%2B%2FXAhoOhy2971GimxrKym9tcUcfWEbw%2FvEgNloSRdlxc0QORcQ%2FxWuaPJq1jHOVrvdm2gw4"}],"group":"cf-nel","max_age":604800}
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< X-Content-Type-Options: nosniff
+< Expires: Tue, 05 Jul 2022 04:13:50 GMT
+< Vary: Accept-Encoding
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

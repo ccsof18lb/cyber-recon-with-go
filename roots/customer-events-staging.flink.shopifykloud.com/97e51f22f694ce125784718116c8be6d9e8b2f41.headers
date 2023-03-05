@@ -1,0 +1,9 @@
+GET http://customer-events-staging.flink.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 162
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Content-Type: text/html
+< Location: https://customer-events-staging.flink.shopifykloud.com
+< X-Dc: gcp-us-central1

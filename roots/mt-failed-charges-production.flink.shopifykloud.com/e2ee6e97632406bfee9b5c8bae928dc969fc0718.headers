@@ -1,0 +1,9 @@
+GET http://mt-failed-charges-production.flink.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html
+< Content-Length: 162
+< Location: https://mt-failed-charges-production.flink.shopifykloud.com
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< X-Dc: gcp-us-central1

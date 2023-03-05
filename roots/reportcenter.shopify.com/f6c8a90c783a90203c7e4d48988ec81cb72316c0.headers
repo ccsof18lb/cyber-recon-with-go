@@ -1,0 +1,9 @@
+GET https://reportcenter.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 05 Jul 2022 03:13:53 GMT
+< Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+< X-Dc: gcp-us-east1
+< Content-Type: text/html
+< Content-Length: 146

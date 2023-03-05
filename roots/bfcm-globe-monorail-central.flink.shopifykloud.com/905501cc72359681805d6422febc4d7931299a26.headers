@@ -1,0 +1,9 @@
+GET https://bfcm-globe-monorail-central.flink.shopifykloud.com
+
+
+< HTTP/1.1 302 Moved Temporarily
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Location: https://minerva.shopifycloud.com/auth/minerva?request=a53b12ee-571c-4602-8b8e-441aaff3c3c1&rd=https://bfcm-globe-monorail-central.flink.shopifykloud.com%2F
+< Set-Cookie: MINERVA_REQ_ID=a53b12ee-571c-4602-8b8e-441aaff3c3c1; Path=/; Expires=Tue, 05 Jul 2022 03:18:50 GMT; HttpOnly; Secure; SameSite=Lax
+< Content-Type: text/html
+< Content-Length: 138

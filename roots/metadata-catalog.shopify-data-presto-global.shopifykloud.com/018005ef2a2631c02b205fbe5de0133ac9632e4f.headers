@@ -1,0 +1,9 @@
+GET http://metadata-catalog.shopify-data-presto-global.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://metadata-catalog.shopify-data-presto-global.shopifykloud.com
+< Content-Length: 162
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Content-Type: text/html
+< X-Dc: gcp-us-central1

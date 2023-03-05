@@ -1,0 +1,25 @@
+GET http://ext.log1.ash.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< X-Shopid: 
+< X-Download-Options: noopen
+< X-Sorting-Hat-Podid: -1
+< Cf-Cache-Status: DYNAMIC
+< Server: cloudflare
+< X-Frame-Options: DENY
+< Content-Security-Policy: frame-ancestors 'none';
+< X-Shardid: -1
+< X-Content-Type-Options: nosniff
+< X-Xss-Protection: 1; mode=block
+< X-Storefront-Renderer-Rendered: 1
+< Vary: Accept-Encoding
+< X-Shopify-Stage: production
+< X-Permitted-Cross-Domain-Policies: none
+< Cf-Ray: 725ced4bdc2d1248-HKG
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Content-Type: text/html; charset=utf-8
+< Server-Timing-Public: processing;dur=3
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< X-Request-Id: e7a85697-5a50-4b76-a88f-94eee8392693

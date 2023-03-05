@@ -1,0 +1,9 @@
+GET http://inventory-analytics-staging.flink.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 162
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Location: https://inventory-analytics-staging.flink.shopifykloud.com
+< Content-Type: text/html
+< X-Dc: gcp-us-central1

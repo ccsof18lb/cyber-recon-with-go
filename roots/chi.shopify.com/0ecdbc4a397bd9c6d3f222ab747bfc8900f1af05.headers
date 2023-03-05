@@ -1,0 +1,26 @@
+GET https://chi.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=utf-8
+< X-Sorting-Hat-Podid: -1
+< X-Storefront-Renderer-Rendered: 1
+< X-Shardid: -1
+< Server-Timing-Public: processing;dur=3
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< X-Content-Type-Options: nosniff
+< X-Permitted-Cross-Domain-Policies: none
+< Cf-Cache-Status: DYNAMIC
+< Cf-Ray: 725ced4befe13c88-HKG
+< X-Frame-Options: DENY
+< X-Download-Options: noopen
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Vary: Accept-Encoding
+< X-Xss-Protection: 1; mode=block
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< X-Shopid: 
+< X-Shopify-Stage: production
+< X-Request-Id: fa3c5d4b-57c7-45e3-a99f-1eb94fcf2085
+< Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;

@@ -1,0 +1,9 @@
+GET https://amp-shop.flink.shopifykloud.com
+
+
+< HTTP/1.1 503 Service Temporarily Unavailable
+< Date: Tue, 05 Jul 2022 03:13:53 GMT
+< X-Dc: gcp-us-central1
+< Content-Type: text/html
+< Content-Length: 190
+< Strict-Transport-Security: max-age=63072000; includeSubDomains; preload

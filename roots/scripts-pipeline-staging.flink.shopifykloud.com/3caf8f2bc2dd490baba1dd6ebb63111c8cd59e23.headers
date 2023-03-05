@@ -1,0 +1,9 @@
+GET http://scripts-pipeline-staging.flink.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://scripts-pipeline-staging.flink.shopifykloud.com
+< Date: Tue, 05 Jul 2022 03:13:51 GMT
+< X-Dc: gcp-us-central1
+< Content-Length: 162
+< Content-Type: text/html

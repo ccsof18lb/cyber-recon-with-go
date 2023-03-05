@@ -1,0 +1,9 @@
+GET http://bfcm-products-east-production.flink.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://bfcm-products-east-production.flink.shopifykloud.com
+< Content-Length: 162
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Content-Type: text/html
+< X-Dc: gcp-us-east1

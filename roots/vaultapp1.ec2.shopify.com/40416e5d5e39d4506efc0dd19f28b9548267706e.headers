@@ -1,0 +1,25 @@
+GET http://vaultapp1.ec2.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Xss-Protection: 1; mode=block
+< Cf-Ray: 725ced4b6de48b33-HKG
+< Server: cloudflare
+< X-Storefront-Renderer-Rendered: 1
+< X-Shopify-Stage: production
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< Cf-Cache-Status: DYNAMIC
+< Vary: Accept-Encoding
+< Content-Security-Policy: frame-ancestors 'none';
+< X-Permitted-Cross-Domain-Policies: none
+< Server-Timing-Public: processing;dur=6
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< X-Download-Options: noopen
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=utf-8
+< X-Shardid: -1
+< X-Request-Id: a8feefa4-5aa7-44ac-bc15-d2e8dfd22996
+< X-Shopid: 
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< X-Sorting-Hat-Podid: -1
+< X-Frame-Options: DENY

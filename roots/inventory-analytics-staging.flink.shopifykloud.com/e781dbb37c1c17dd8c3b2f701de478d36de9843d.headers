@@ -1,0 +1,9 @@
+GET https://inventory-analytics-staging.flink.shopifykloud.com
+
+
+< HTTP/1.1 302 Moved Temporarily
+< Set-Cookie: MINERVA_REQ_ID=3f01ed54-eb72-4968-8389-add630ef4584; Path=/; Expires=Tue, 05 Jul 2022 03:18:50 GMT; HttpOnly; Secure; SameSite=Lax
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Content-Length: 138
+< Location: https://minerva.shopifycloud.com/auth/minerva?request=3f01ed54-eb72-4968-8389-add630ef4584&rd=https://inventory-analytics-staging.flink.shopifykloud.com%2F
+< Content-Type: text/html

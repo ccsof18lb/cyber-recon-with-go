@@ -1,0 +1,26 @@
+GET https://gothicfarmer.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< Cf-Ray: 725ced4bcf928b48-HKG
+< X-Storefront-Renderer-Rendered: 1
+< X-Content-Type-Options: nosniff
+< X-Xss-Protection: 1; mode=block
+< X-Sorting-Hat-Podid: -1
+< X-Permitted-Cross-Domain-Policies: none
+< Server-Timing-Public: processing;dur=4
+< X-Shopify-Stage: production
+< X-Download-Options: noopen
+< Content-Type: text/html; charset=utf-8
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare
+< Vary: Accept-Encoding
+< X-Request-Id: 7474dcd8-8889-43e4-bf09-7ad0a686d286
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< X-Frame-Options: DENY
+< Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+< X-Shardid: -1
+< X-Shopid: 
+< Cf-Cache-Status: DYNAMIC
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Date: Tue, 05 Jul 2022 03:13:49 GMT

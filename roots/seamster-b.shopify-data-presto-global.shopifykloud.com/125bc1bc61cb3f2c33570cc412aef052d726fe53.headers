@@ -1,0 +1,9 @@
+GET http://seamster-b.shopify-data-presto-global.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Dc: gcp-us-central1
+< Location: https://seamster-b.shopify-data-presto-global.shopifykloud.com
+< Date: Tue, 05 Jul 2022 03:13:51 GMT
+< Content-Length: 162
+< Content-Type: text/html

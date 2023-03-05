@@ -1,0 +1,25 @@
+GET http://roundtrip-boomerangs.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< X-Request-Id: 3edd9869-a7ec-4bc7-a7b0-c5ba2e0b4fd3
+< X-Storefront-Renderer-Rendered: 1
+< Content-Type: text/html; charset=utf-8
+< X-Shopify-Stage: canary
+< Server: cloudflare
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< Content-Security-Policy: frame-ancestors 'none';
+< Cf-Ray: 725ced4b6bb38b5f-HKG
+< Vary: Accept-Encoding
+< X-Shardid: -1
+< X-Sorting-Hat-Podid: -1
+< X-Download-Options: noopen
+< X-Content-Type-Options: nosniff
+< X-Shopid: 
+< X-Xss-Protection: 1; mode=block
+< Cf-Cache-Status: DYNAMIC
+< Server-Timing-Public: processing;dur=3
+< X-Permitted-Cross-Domain-Policies: none
+< X-Frame-Options: DENY
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

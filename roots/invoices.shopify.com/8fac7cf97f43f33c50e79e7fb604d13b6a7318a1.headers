@@ -1,0 +1,20 @@
+GET https://invoices.shopify.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+< X-Dc: gcp-us-central1,us-east1
+< X-Request-Id: fb1f70af-a6f4-49a7-b2d1-b0863178fef1
+< Cf-Cache-Status: BYPASS
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Vary: Accept-Encoding
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Content-Length: 162
+< X-Content-Type-Options: nosniff
+< Server: cloudflare
+< Cf-Ray: 725ced529d1f6e27-HKG
+< Content-Type: text/html
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Location: https://invoices.shopify.io
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=F5PyYhz4ZlsF6HvMr23yQWNqv0YFWUE9ZjBHnCYPVH0ap48fZCliKNDf%2FDNLPKbkcsL4YEQMIXgWy1IoPJwVn2r4SbjDcyQNYihpzenR%2BqGITxTQftsgULM1bqubHPMpU4GAMhBy"}],"group":"cf-nel","max_age":604800}

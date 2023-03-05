@@ -1,0 +1,15 @@
+GET http://compass.shopify.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: cloudflare
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Dk71%2BJpNeeQ0Em12bLrY2uzoAKbI0vcRNsTKsXBD8i8KSG1cdgmbBUmwK7Jb97DBACt2ZOcyFmtyqhfvB1fImiLAtdSGlzJJVVtb31jVq0K8YY1%2FtnKzv1KANhhGUBeDlE1aEJU%3D"}],"group":"cf-nel","max_age":604800}
+< Cf-Ray: 725ced526fd23ca0-HKG
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Cache-Control: max-age=3600
+< Expires: Tue, 05 Jul 2022 04:13:50 GMT
+< Location: https://compass.shopify.com/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff

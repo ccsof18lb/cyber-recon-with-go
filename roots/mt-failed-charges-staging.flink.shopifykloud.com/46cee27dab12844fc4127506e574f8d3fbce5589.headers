@@ -1,0 +1,9 @@
+GET https://mt-failed-charges-staging.flink.shopifykloud.com
+
+
+< HTTP/1.1 302 Moved Temporarily
+< Set-Cookie: MINERVA_REQ_ID=06023449-b08d-41ad-86fc-14ae5868b4a6; Path=/; Expires=Tue, 05 Jul 2022 03:18:50 GMT; HttpOnly; Secure; SameSite=Lax
+< Content-Type: text/html
+< Location: https://minerva.shopifycloud.com/auth/minerva?request=06023449-b08d-41ad-86fc-14ae5868b4a6&rd=https://mt-failed-charges-staging.flink.shopifykloud.com%2F
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Content-Length: 138

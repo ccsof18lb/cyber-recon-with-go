@@ -1,0 +1,9 @@
+GET http://starscream-qa.shopify-data-presto-global.shopifykloud.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Dc: gcp-us-central1
+< Location: https://starscream-qa.shopify-data-presto-global.shopifykloud.com
+< Content-Type: text/html
+< Content-Length: 162
+< Date: Tue, 05 Jul 2022 03:13:49 GMT

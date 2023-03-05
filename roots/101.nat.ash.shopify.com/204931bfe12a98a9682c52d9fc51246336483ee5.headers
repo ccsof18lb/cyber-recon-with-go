@@ -1,0 +1,9 @@
+GET https://101.nat.ash.shopify.com
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< Content-Length: 151
+< Cf-Ray: 725ced4bcbb93bf2-HKG
+< Server: cloudflare
+< Content-Type: text/html

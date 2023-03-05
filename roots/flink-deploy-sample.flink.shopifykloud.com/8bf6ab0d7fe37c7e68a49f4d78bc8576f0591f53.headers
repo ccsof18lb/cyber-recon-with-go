@@ -1,0 +1,9 @@
+GET https://flink-deploy-sample.flink.shopifykloud.com
+
+
+< HTTP/1.1 302 Moved Temporarily
+< Content-Length: 138
+< Location: https://minerva.shopifycloud.com/auth/minerva?request=03c76ca8-e9c6-4add-b887-6f87c01d915f&rd=https://flink-deploy-sample.flink.shopifykloud.com%2F
+< Content-Type: text/html
+< Date: Tue, 05 Jul 2022 03:13:50 GMT
+< Set-Cookie: MINERVA_REQ_ID=03c76ca8-e9c6-4add-b887-6f87c01d915f; Path=/; Expires=Tue, 05 Jul 2022 03:18:50 GMT; HttpOnly; Secure; SameSite=Lax

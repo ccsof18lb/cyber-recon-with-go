@@ -1,0 +1,26 @@
+GET https://jaxn.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding
+< X-Shopify-Stage: production
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< X-Xss-Protection: 1; mode=block
+< X-Frame-Options: DENY
+< X-Shardid: -1
+< Server-Timing-Public: processing;dur=5
+< Content-Type: text/html; charset=utf-8
+< X-Sorting-Hat-Podid: -1
+< X-Request-Id: 93d65a52-2592-436d-a475-aca5de42dc72
+< X-Permitted-Cross-Domain-Policies: none
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare
+< X-Shopid: 
+< X-Content-Type-Options: nosniff
+< X-Storefront-Renderer-Rendered: 1
+< Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+< X-Download-Options: noopen
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Cf-Cache-Status: DYNAMIC
+< Cf-Ray: 725ced4bdbcf3c9a-HKG

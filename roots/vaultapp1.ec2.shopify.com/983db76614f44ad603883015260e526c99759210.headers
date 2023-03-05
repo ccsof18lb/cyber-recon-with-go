@@ -1,0 +1,9 @@
+GET https://vaultapp1.ec2.shopify.com
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< Content-Type: text/html
+< Server: cloudflare
+< Content-Length: 151
+< Cf-Ray: 725ced4b8f1b6e27-HKG

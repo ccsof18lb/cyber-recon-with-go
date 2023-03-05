@@ -1,0 +1,25 @@
+GET http://forumsapp1.ec2.shopify.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Shopify-Stage: production
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Content-Type: text/html; charset=utf-8
+< X-Storefront-Renderer-Rendered: 1
+< X-Download-Options: noopen
+< X-Permitted-Cross-Domain-Policies: none
+< X-Content-Type-Options: nosniff
+< Date: Tue, 05 Jul 2022 03:13:49 GMT
+< X-Frame-Options: DENY
+< Cf-Cache-Status: DYNAMIC
+< X-Shardid: -1
+< X-Dc: gcp-asia-east2,us-central1,gcp-us-central1
+< X-Sorting-Hat-Podid: -1
+< X-Xss-Protection: 1; mode=block
+< Cf-Ray: 725ced4b6eff8b42-HKG
+< Vary: Accept-Encoding
+< Content-Security-Policy: frame-ancestors 'none';
+< X-Shopid: 
+< Server-Timing-Public: processing;dur=5
+< X-Request-Id: c6a00102-53fe-4c27-bf64-3330975488e5
