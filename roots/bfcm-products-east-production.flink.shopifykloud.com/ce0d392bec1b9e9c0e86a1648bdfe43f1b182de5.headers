@@ -1,9 +1,0 @@
-GET https://bfcm-products-east-production.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Content-Length: 138
-< Set-Cookie: MINERVA_REQ_ID=133e65e1-fd69-4216-bf03-e98d87e57e03; Path=/; Expires=Tue, 05 Jul 2022 03:18:51 GMT; HttpOnly; Secure; SameSite=Lax
-< Date: Tue, 05 Jul 2022 03:13:51 GMT
-< Content-Type: text/html
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=133e65e1-fd69-4216-bf03-e98d87e57e03&rd=https://bfcm-products-east-production.flink.shopifykloud.com%2F

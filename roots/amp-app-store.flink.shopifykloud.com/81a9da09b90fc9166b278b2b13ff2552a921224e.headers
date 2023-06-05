@@ -1,9 +1,0 @@
-GET https://amp-app-store.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Content-Type: text/html
-< Set-Cookie: MINERVA_REQ_ID=b24d241a-7a34-45cf-a51e-e16003609623; Path=/; Expires=Tue, 05 Jul 2022 03:18:51 GMT; HttpOnly; Secure; SameSite=Lax
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=b24d241a-7a34-45cf-a51e-e16003609623&rd=https://amp-app-store.flink.shopifykloud.com%2F
-< Date: Tue, 05 Jul 2022 03:13:51 GMT
-< Content-Length: 138

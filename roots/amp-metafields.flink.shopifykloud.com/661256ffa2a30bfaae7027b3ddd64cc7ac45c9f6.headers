@@ -1,9 +1,0 @@
-GET https://amp-metafields.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Date: Tue, 05 Jul 2022 03:13:51 GMT
-< Content-Length: 138
-< Content-Type: text/html
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=2a7b1802-6362-4b7f-b7f5-5bf7ce1bee0d&rd=https://amp-metafields.flink.shopifykloud.com%2F
-< Set-Cookie: MINERVA_REQ_ID=2a7b1802-6362-4b7f-b7f5-5bf7ce1bee0d; Path=/; Expires=Tue, 05 Jul 2022 03:18:51 GMT; HttpOnly; Secure; SameSite=Lax

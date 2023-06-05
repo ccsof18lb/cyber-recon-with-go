@@ -1,9 +1,0 @@
-GET http://amp-developer-docs.flink.shopifykloud.com
-
-
-< HTTP/1.1 301 Moved Permanently
-< Date: Tue, 05 Jul 2022 03:13:50 GMT
-< Content-Length: 162
-< Location: https://amp-developer-docs.flink.shopifykloud.com
-< Content-Type: text/html
-< X-Dc: gcp-us-central1

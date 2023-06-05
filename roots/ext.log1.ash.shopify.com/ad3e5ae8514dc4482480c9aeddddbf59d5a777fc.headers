@@ -1,9 +1,0 @@
-GET https://ext.log1.ash.shopify.com
-
-
-< HTTP/1.1 403 Forbidden
-< Cf-Ray: 725ced4beb81b425-HKG
-< Server: cloudflare
-< Content-Type: text/html
-< Date: Tue, 05 Jul 2022 03:13:49 GMT
-< Content-Length: 151

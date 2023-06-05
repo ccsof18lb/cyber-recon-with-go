@@ -1,9 +1,0 @@
-GET http://presto-exp-load-b.shopify-data-presto-global.shopifykloud.com
-
-
-< HTTP/1.1 301 Moved Permanently
-< Date: Tue, 05 Jul 2022 03:13:51 GMT
-< Content-Length: 162
-< X-Dc: gcp-us-central1
-< Content-Type: text/html
-< Location: https://presto-exp-load-b.shopify-data-presto-global.shopifykloud.com

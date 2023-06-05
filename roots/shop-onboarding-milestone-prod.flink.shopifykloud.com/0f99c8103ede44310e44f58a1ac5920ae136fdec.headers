@@ -1,9 +1,0 @@
-GET https://shop-onboarding-milestone-prod.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Set-Cookie: MINERVA_REQ_ID=13963003-27b9-43e5-a756-ccf13415eb35; Path=/; Expires=Tue, 05 Jul 2022 03:18:51 GMT; HttpOnly; Secure; SameSite=Lax
-< Content-Length: 138
-< Date: Tue, 05 Jul 2022 03:13:51 GMT
-< Content-Type: text/html
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=13963003-27b9-43e5-a756-ccf13415eb35&rd=https://shop-onboarding-milestone-prod.flink.shopifykloud.com%2F

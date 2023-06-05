@@ -1,9 +1,0 @@
-GET http://presto-staging-exp-load-a.shopify-data-presto-global.shopifykloud.com
-
-
-< HTTP/1.1 301 Moved Permanently
-< Date: Tue, 05 Jul 2022 03:13:50 GMT
-< X-Dc: gcp-us-central1
-< Content-Length: 162
-< Location: https://presto-staging-exp-load-a.shopify-data-presto-global.shopifykloud.com
-< Content-Type: text/html

@@ -1,9 +1,0 @@
-GET http://bfcm-globe-monorail-east.flink.shopifykloud.com
-
-
-< HTTP/1.1 301 Moved Permanently
-< Content-Type: text/html
-< X-Dc: gcp-us-east1
-< Date: Tue, 05 Jul 2022 03:13:50 GMT
-< Content-Length: 162
-< Location: https://bfcm-globe-monorail-east.flink.shopifykloud.com

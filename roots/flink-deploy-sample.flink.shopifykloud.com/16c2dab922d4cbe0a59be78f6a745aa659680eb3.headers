@@ -1,9 +1,0 @@
-GET http://flink-deploy-sample.flink.shopifykloud.com
-
-
-< HTTP/1.1 301 Moved Permanently
-< Content-Type: text/html
-< Date: Tue, 05 Jul 2022 03:13:50 GMT
-< Location: https://flink-deploy-sample.flink.shopifykloud.com
-< X-Dc: gcp-us-central1
-< Content-Length: 162

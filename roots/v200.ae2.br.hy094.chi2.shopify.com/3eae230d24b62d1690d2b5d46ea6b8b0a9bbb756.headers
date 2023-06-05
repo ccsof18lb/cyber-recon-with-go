@@ -1,9 +1,0 @@
-GET https://v200.ae2.br.hy094.chi2.shopify.com
-
-
-< HTTP/1.1 403 Forbidden
-< Content-Type: text/html
-< Server: cloudflare
-< Date: Tue, 05 Jul 2022 03:13:49 GMT
-< Content-Length: 151
-< Cf-Ray: 725ced4b8f4c8b65-HKG

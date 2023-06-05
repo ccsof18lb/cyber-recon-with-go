@@ -1,9 +1,0 @@
-GET https://amp-shopify-chat.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Content-Length: 138
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=1feb13e8-baa9-4b2d-971d-ccffbb504efb&rd=https://amp-shopify-chat.flink.shopifykloud.com%2F
-< Set-Cookie: MINERVA_REQ_ID=1feb13e8-baa9-4b2d-971d-ccffbb504efb; Path=/; Expires=Tue, 05 Jul 2022 03:18:51 GMT; HttpOnly; Secure; SameSite=Lax
-< Date: Tue, 05 Jul 2022 03:13:51 GMT
-< Content-Type: text/html

@@ -1,9 +1,0 @@
-GET https://scripts-pipeline-staging.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=74e28783-57b4-4358-8b2b-087cf6e46dee&rd=https://scripts-pipeline-staging.flink.shopifykloud.com%2F
-< Content-Type: text/html
-< Date: Tue, 05 Jul 2022 03:13:51 GMT
-< Content-Length: 138
-< Set-Cookie: MINERVA_REQ_ID=74e28783-57b4-4358-8b2b-087cf6e46dee; Path=/; Expires=Tue, 05 Jul 2022 03:18:51 GMT; HttpOnly; Secure; SameSite=Lax

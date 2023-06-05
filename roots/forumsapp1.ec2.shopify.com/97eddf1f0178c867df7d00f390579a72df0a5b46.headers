@@ -1,9 +1,0 @@
-GET https://forumsapp1.ec2.shopify.com
-
-
-< HTTP/1.1 403 Forbidden
-< Server: cloudflare
-< Cf-Ray: 725ced4b78ed6e5b-HKG
-< Content-Length: 151
-< Content-Type: text/html
-< Date: Tue, 05 Jul 2022 03:13:49 GMT

@@ -1,9 +1,0 @@
-GET https://amp-pos-next.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=afb2cf0d-33cb-4ee8-b0c2-4a14867ce4f8&rd=https://amp-pos-next.flink.shopifykloud.com%2F
-< Content-Length: 138
-< Set-Cookie: MINERVA_REQ_ID=afb2cf0d-33cb-4ee8-b0c2-4a14867ce4f8; Path=/; Expires=Tue, 05 Jul 2022 03:18:50 GMT; HttpOnly; Secure; SameSite=Lax
-< Date: Tue, 05 Jul 2022 03:13:50 GMT
-< Content-Type: text/html

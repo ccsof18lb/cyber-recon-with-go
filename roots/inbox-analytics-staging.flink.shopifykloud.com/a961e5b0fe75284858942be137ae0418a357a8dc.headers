@@ -1,9 +1,0 @@
-GET http://inbox-analytics-staging.flink.shopifykloud.com
-
-
-< HTTP/1.1 301 Moved Permanently
-< Content-Type: text/html
-< X-Dc: gcp-us-central1
-< Date: Tue, 05 Jul 2022 03:13:53 GMT
-< Content-Length: 162
-< Location: https://inbox-analytics-staging.flink.shopifykloud.com

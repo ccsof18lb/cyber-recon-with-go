@@ -1,9 +1,0 @@
-GET http://amp-grid-next.flink.shopifykloud.com
-
-
-< HTTP/1.1 301 Moved Permanently
-< Location: https://amp-grid-next.flink.shopifykloud.com
-< Date: Tue, 05 Jul 2022 03:13:54 GMT
-< Content-Type: text/html
-< X-Dc: gcp-us-central1
-< Content-Length: 162

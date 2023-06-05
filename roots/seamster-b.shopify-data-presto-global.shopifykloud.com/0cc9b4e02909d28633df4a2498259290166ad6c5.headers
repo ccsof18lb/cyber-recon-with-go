@@ -1,9 +1,0 @@
-GET https://seamster-b.shopify-data-presto-global.shopifykloud.com
-
-
-< HTTP/1.1 303 See Other
-< Content-Length: 0
-< Location: https://seamster-b.shopify-data-presto-global.shopifykloud.com/ui/
-< Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-< X-Dc: gcp-us-central1
-< Date: Tue, 05 Jul 2022 03:13:51 GMT

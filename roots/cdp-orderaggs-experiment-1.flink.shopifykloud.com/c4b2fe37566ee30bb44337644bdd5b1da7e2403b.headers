@@ -1,9 +1,0 @@
-GET https://cdp-orderaggs-experiment-1.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Content-Type: text/html
-< Date: Tue, 05 Jul 2022 03:13:50 GMT
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=8c1a9596-1709-4526-a64f-6fab72b0c470&rd=https://cdp-orderaggs-experiment-1.flink.shopifykloud.com%2F
-< Set-Cookie: MINERVA_REQ_ID=8c1a9596-1709-4526-a64f-6fab72b0c470; Path=/; Expires=Tue, 05 Jul 2022 03:18:50 GMT; HttpOnly; Secure; SameSite=Lax
-< Content-Length: 138

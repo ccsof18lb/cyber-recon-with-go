@@ -1,9 +1,0 @@
-GET https://amp-grid-next.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Content-Type: text/html
-< Content-Length: 138
-< Set-Cookie: MINERVA_REQ_ID=4fe90bf8-016d-456f-bcf7-2d87ef8cb2a8; Path=/; Expires=Tue, 05 Jul 2022 03:18:54 GMT; HttpOnly; Secure; SameSite=Lax
-< Date: Tue, 05 Jul 2022 03:13:54 GMT
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=4fe90bf8-016d-456f-bcf7-2d87ef8cb2a8&rd=https://amp-grid-next.flink.shopifykloud.com%2F

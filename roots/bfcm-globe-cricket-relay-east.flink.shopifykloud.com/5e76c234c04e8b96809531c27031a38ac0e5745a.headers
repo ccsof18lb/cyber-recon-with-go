@@ -1,9 +1,0 @@
-GET http://bfcm-globe-cricket-relay-east.flink.shopifykloud.com
-
-
-< HTTP/1.1 301 Moved Permanently
-< Date: Tue, 05 Jul 2022 03:13:53 GMT
-< Content-Type: text/html
-< Content-Length: 162
-< Location: https://bfcm-globe-cricket-relay-east.flink.shopifykloud.com
-< X-Dc: gcp-us-east1

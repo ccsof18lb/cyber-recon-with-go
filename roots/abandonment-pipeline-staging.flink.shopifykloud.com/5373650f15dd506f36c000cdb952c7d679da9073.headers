@@ -1,9 +1,0 @@
-GET https://abandonment-pipeline-staging.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Date: Tue, 05 Jul 2022 03:13:50 GMT
-< Set-Cookie: MINERVA_REQ_ID=9ace37dd-edd5-4c00-af00-a2bd4fe935d3; Path=/; Expires=Tue, 05 Jul 2022 03:18:50 GMT; HttpOnly; Secure; SameSite=Lax
-< Content-Length: 138
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=9ace37dd-edd5-4c00-af00-a2bd4fe935d3&rd=https://abandonment-pipeline-staging.flink.shopifykloud.com%2F
-< Content-Type: text/html

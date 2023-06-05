@@ -1,9 +1,0 @@
-GET https://capital-algo-streaming-production.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Date: Tue, 05 Jul 2022 03:13:54 GMT
-< Content-Length: 138
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=58e40cf7-4f69-4cbe-be12-4539bd6711f4&rd=https://capital-algo-streaming-production.flink.shopifykloud.com%2F
-< Set-Cookie: MINERVA_REQ_ID=58e40cf7-4f69-4cbe-be12-4539bd6711f4; Path=/; Expires=Tue, 05 Jul 2022 03:18:54 GMT; HttpOnly; Secure; SameSite=Lax
-< Content-Type: text/html

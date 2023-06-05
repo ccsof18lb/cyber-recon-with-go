@@ -1,9 +1,0 @@
-GET https://ad-audience-sharing-log-production.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Date: Tue, 05 Jul 2022 03:13:54 GMT
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=b8fbe4c9-0edc-4e9b-808a-c209019877ac&rd=https://ad-audience-sharing-log-production.flink.shopifykloud.com%2F
-< Set-Cookie: MINERVA_REQ_ID=b8fbe4c9-0edc-4e9b-808a-c209019877ac; Path=/; Expires=Tue, 05 Jul 2022 03:18:54 GMT; HttpOnly; Secure; SameSite=Lax
-< Content-Type: text/html
-< Content-Length: 138

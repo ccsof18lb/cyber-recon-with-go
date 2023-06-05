@@ -1,9 +1,0 @@
-GET https://superset.staging.tools.k8s-exp.shopifykloud.com
-
-
-< HTTP/1.1 503 Service Temporarily Unavailable
-< Date: Tue, 05 Jul 2022 03:13:51 GMT
-< Content-Type: text/html
-< Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-< X-Dc: gcp-us-central1
-< Content-Length: 190

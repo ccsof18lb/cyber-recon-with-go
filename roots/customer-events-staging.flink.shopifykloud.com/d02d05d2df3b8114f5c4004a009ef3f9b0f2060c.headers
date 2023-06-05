@@ -1,9 +1,0 @@
-GET https://customer-events-staging.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Date: Tue, 05 Jul 2022 03:13:50 GMT
-< Content-Type: text/html
-< Content-Length: 138
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=7b4bf144-63b3-4ab0-93a3-5153151e9cd5&rd=https://customer-events-staging.flink.shopifykloud.com%2F
-< Set-Cookie: MINERVA_REQ_ID=7b4bf144-63b3-4ab0-93a3-5153151e9cd5; Path=/; Expires=Tue, 05 Jul 2022 03:18:50 GMT; HttpOnly; Secure; SameSite=Lax

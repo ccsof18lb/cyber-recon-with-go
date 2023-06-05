@@ -1,9 +1,0 @@
-GET https://amp-inbox.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Date: Tue, 05 Jul 2022 03:13:51 GMT
-< Set-Cookie: MINERVA_REQ_ID=de94a829-a6a2-4be1-a6d0-0b78d6d61494; Path=/; Expires=Tue, 05 Jul 2022 03:18:51 GMT; HttpOnly; Secure; SameSite=Lax
-< Content-Type: text/html
-< Content-Length: 138
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=de94a829-a6a2-4be1-a6d0-0b78d6d61494&rd=https://amp-inbox.flink.shopifykloud.com%2F

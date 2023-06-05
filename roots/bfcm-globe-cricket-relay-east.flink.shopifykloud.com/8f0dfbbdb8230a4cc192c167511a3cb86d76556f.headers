@@ -1,9 +1,0 @@
-GET https://bfcm-globe-cricket-relay-east.flink.shopifykloud.com
-
-
-< HTTP/1.1 302 Moved Temporarily
-< Content-Type: text/html
-< Content-Length: 138
-< Location: https://minerva.shopifycloud.com/auth/minerva?request=085d92de-e751-4ea4-8d0c-33d63bf25106&rd=https://bfcm-globe-cricket-relay-east.flink.shopifykloud.com%2F
-< Date: Tue, 05 Jul 2022 03:13:54 GMT
-< Set-Cookie: MINERVA_REQ_ID=085d92de-e751-4ea4-8d0c-33d63bf25106; Path=/; Expires=Tue, 05 Jul 2022 03:18:54 GMT; HttpOnly; Secure; SameSite=Lax
